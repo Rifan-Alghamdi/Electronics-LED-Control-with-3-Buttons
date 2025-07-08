@@ -1,4 +1,4 @@
-# Electronics – LED Control with 3 Buttons
+# LED Control with 3 Buttons
 ![preview](Circuit-in-Tinkercad.png)
 
 This project demonstrates a basic Arduino circuit in which three push buttons are used to control three LEDs. Each button turns its corresponding LED on or off.
